@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1076932314221",
+    "firebase_url": "https://newlastapp-default-rtdb.firebaseio.com",
+    "project_id": "newlastapp",
+    "storage_bucket": "newlastapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076932314221:android:c57e83fabe4935ad3beb64",
+        "android_client_info": {
+          "package_name": "com.lastapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1076932314221-jvfqjmq57ge5bsiv47kdhh4dceqd2fbq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEHmbzrybzYm7O42IzxaswtxwCrjlY6YI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1076932314221-9ensqtqem8vd16dcck0qdjbqrjv4vhgf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
